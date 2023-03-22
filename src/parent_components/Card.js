@@ -4,7 +4,7 @@ import Productcard from '../children_components/Productcard.js'
 import Cartcard from  '../children_components/Cartcard.js'
 const data=[
     {
-        label:"Ghee Dosa",
+        label:"Ghee Paper Dosa",
         price:70,
         star:4.5,
         origin:"South Indian Breakfast",
@@ -21,7 +21,7 @@ const data=[
 
     },
     {
-        label:"Filter Coffee",
+        label:"Spl Filter Coffee",
         price:50,
         star:3.5,
         origin:"South Indian Beverage",
@@ -37,7 +37,7 @@ const data=[
        isVeg:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRYteGPinx4N697CzQh72N0wcLprAcv2BOxw&usqp=CAU"
     },
     {
-        label:"Fish Fry",
+        label:"Spl Fish Fry",
         price:300,
         star:4,
         origin:"Indian Starter",
