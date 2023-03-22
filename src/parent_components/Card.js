@@ -4,7 +4,7 @@ import Productcard from '../children_components/Productcard.js'
 import Cartcard from  '../children_components/Cartcard.js'
 const data=[
     {
-        label:"Ghee Paper Dosa",
+        label:"Spl Ghee Dosa",
         price:70,
         star:4.5,
         origin:"South Indian Breakfast",
